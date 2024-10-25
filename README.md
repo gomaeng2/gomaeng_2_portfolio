@@ -1,4 +1,3 @@
-# gomaeng_2 portfolio
 <html>
 <head>
     <meta charset="utf-8">
@@ -70,17 +69,6 @@
         .email:hover {
             background-color: #E79CAA; /* 배경색을 유지 */
         }
-           /* Center Image Styles */
-           .center-image {
-            text-align: center; /* 이미지를 중앙 정렬 */
-            margin-top: 0;
-        }
-        .center-image img {
-            max-width: 100%;
-            height: auto;
-            margin-top: 0;
-            user-select: none; /* 텍스트 선택 방지 */
-            pointer-events: none; /* 마우스 이벤트 비활성화 */
         }
     </style>
 </head>
